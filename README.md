@@ -26,3 +26,6 @@ The following **required** functionality is completed:
 
 
 ![](https://github.com/audreydang4103/ProjectHub/blob/main/Final%20Project.gif)
+
+
+Link to the website: https://projecthub2024.netlify.app/
