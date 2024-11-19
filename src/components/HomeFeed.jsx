@@ -40,7 +40,7 @@ function HomeFeed() {
         <Link to="/">Home</Link>
         <Link to="/create">Create a New Post</Link>
       </div>
-
+      <h1></h1>
       <h1 className="text-center">Welcome to the Forum</h1>
 
       <div className="search-bar">
