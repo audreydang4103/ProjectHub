@@ -1,10 +1,7 @@
-# Web Development Final Project - *ProjectHub*
 
-Submitted by: **Audrey Dang**
 
 This web app: **ProjectHUB is a platform for sharing ideas and project instructions. Users can create posts with a title, description, and image link. The home feed shows posts sorted by time or upvotes, and users can search for posts by title. Each post has its own page where users can see details, leave comments, upvote, edit, or delete the post. ProjectHUB helps people share knowledge, inspire others, and connect through projects.**
 
-Time spent: **25** hours spent in total
 
 ## Required Features
 
